@@ -17,11 +17,14 @@
 		<div style="border: solid 1px white;padding-top:10px;padding-bottom:10px;width:70%;" class="container">
 
          <span style="color:white">
-            Bonjour et bienvenu sur notre projet ! <br> <br>
+            Bonjour et bienvenue sur notre projet ! <br> <br>
             Ce dernier a pour but de gérer les autorisations d'entrées de la porte d'Eiffel 2 aux étudiants.
-            </span>
-
-			
+        </span>
+        <br>
+         <br>
+        <div class="text-center">
+                <img src="img/logo.png" alt="BadgeMe">
+		</div>
 		</div> <!-- /container -->
         </div>
 
